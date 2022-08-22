@@ -1,0 +1,25 @@
+.image{
+    height:250px;
+    width:70%;
+    border-radius:10px 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top:2em;
+    margin-bottom:2em;
+    border-radius: 50%;
+}
+
+#r1{
+    margin-top:3em;
+    margin-bottom:3em;
+}
+#c1{
+    background-color: #0e2433;
+    color: white;
+    
+    
+}
+
+ body{
+    background-color:#45b6fe ;
+}
