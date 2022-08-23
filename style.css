@@ -1,5 +1,5 @@
 .image{
-    height:250px;
+    height:200px;
     width:70%;
     border-radius:10px 10px;
     margin-left: 15%;
@@ -9,17 +9,53 @@
     border-radius: 50%;
 }
 
+  .info-logo{
+    margin-top:0.5em;
+    margin-bottom: 0.5em;
+  }
+  #project{
+    text-align: center;
+  }
+  #project-col{
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  #skill{
+    margin-top: 1em;
+    margin-bottom:1em;
+  }
+  .right-sec{
+    color: #0e2433;font-size:25px;font-weight: bold;text-align: center;margin-top:1em;margin-bottom: 1em;
+  }
+
 #r1{
     margin-top:3em;
     margin-bottom:3em;
+    width:90%;
+    margin-left:5%;
+    margin-right: 5%;
 }
 #c1{
     background-color: #0e2433;
-    color: white;
+    color: #bfe6ff;
     
     
 }
 
  body{
     background-color:#45b6fe ;
+}
+#int{
+    font-size:20px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.progress{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.name{
+    text-align: center;
+    font-size:30px;
+    
 }
